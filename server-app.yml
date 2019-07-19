@@ -1,0 +1,3 @@
+snowflake:
+  server-port: 50051
+  server-host: snowflake

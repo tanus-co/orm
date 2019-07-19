@@ -1,0 +1,7 @@
+snowflake:
+  server-port: 10016
+  server-host: snowflake.rpc.tanus.iooc.cc
+orm:
+  driver: mysql
+  dsn: root:scmroot2019.com@tcp(117.187.225.201:10015)/orm_test?charset=utf8&parseTime=True&loc=Local
+  debug: true
